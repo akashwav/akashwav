@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @akashwav
+- 👋 Hi, I’m Akash, from India.
 - 👀 I’m interested in Web Development, App Development & Software Systems.
 - 🌱 I’m currently learning JavaScript.
 
