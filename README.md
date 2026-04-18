@@ -1,10 +1,10 @@
-- 👋 Hi, I’m Akash, from India.
-- 👀 I’m interested in Web Development, App Development & Software Systems.
-- 🌱 I’m currently learning JavaScript.
+### Hi there 👋
 
-- 📫 How to reach me: Instagram: @_akashwut
+My name is Akash, and I'm an Undergraduate Student in the domain of computer science, interested in solving problems through code and building practical applications.
 
-<!---
-akashwav/akashwav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 💻 building web apps and experimenting with code  
+- ⚙️ working with JavaScript, React, and backend basics  
+- 🛠️ debugging, optimizing, and figuring things out step by step  
+- 🚀 currently exploring full-stack development, ML, and much more
+- 🧠 learning by building real projects and improving fundamentals  
+- ✨ aiming to write better code every day  
